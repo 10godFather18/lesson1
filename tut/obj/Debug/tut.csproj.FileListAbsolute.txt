@@ -1,0 +1,6 @@
+C:\Users\Александр\Documents\SharpDevelop Projects\tut\tut\bin\Debug\tut.exe.config
+C:\Users\Александр\Documents\SharpDevelop Projects\tut\tut\bin\Debug\tut.exe
+C:\Users\Александр\Documents\SharpDevelop Projects\tut\tut\bin\Debug\tut.pdb
+C:\Users\Александр\Documents\SharpDevelop Projects\tut\tut\obj\Debug\tut.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\SharpDevelop Projects\tut\tut\obj\Debug\tut.exe
+C:\Users\Александр\Documents\SharpDevelop Projects\tut\tut\obj\Debug\tut.pdb
